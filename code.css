@@ -1,6 +1,6 @@
  {
     "title": "Pingu Dancing",
-    "description": "You get sonic dancing on your playback bar!",
-    "code": ".player-controls .playback-progressbar::before { content: ''; width: 32px; height: 32px; bottom: calc(100% - 7px); right: 10px; position: absolute; image-rendering: pixelated; background-size: 32px 32px; background-image: url('https://github.com/Jagothedinghead/pingufy/blob/main/200w.gif?raw=true'); }",
+    "description": "You get pingu dancing on your playback bar!",
+    "code": ".player-controls .playback-progressbar::before { content: ''; width: 32px; height: 32px; bottom: calc(100% - 7px); right: 10px; position: absolute; image-rendering: pixelated; background-size: 32px 32px; background-image: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9yYnNoaXR6YWMzcTlyd3RxczNxMDh1azdzeTFpaXJjdTVrb3d5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/URGDfXl3yxytf9dIOI/giphy.gif'); }",
     "preview": "resources/assets/snippets/sonic-dancing.png"
   }
